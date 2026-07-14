@@ -1,0 +1,6 @@
+{
+  "name": "Smart Restaurant QR Ordering System",
+  "description": "A full-stack, real-time QR-code-based restaurant ordering and kitchen/worker management ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
